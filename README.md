@@ -6,3 +6,13 @@
 ## 実行画面
 
 <https://taaaaaaak22.github.io/pyxel-web/>
+
+## 開発方法
+
+1. 右上にある緑の「Code」ボタンから「Codespaces」を立ち上げる
+   vscode がブラウザで起動する
+
+2. コードを変更
+
+3. 変更したコードを commit & push するとページが更新される(数十秒ほど時間がかかる)
+   ※ vscode に Live Preview などの拡張機能をインストールすると、リアルタイムに変更を確認できる

@@ -4,7 +4,7 @@
 <https://github.com/kitao/pyxel/wiki/How-To-Use-Pyxel-Web-(%E6%97%A5%E6%9C%AC%E8%AA%9E)>
 
 ## 実行画面  
-githubの設定画面から 「GitHub Pages」を有効かにしておく必要がある。  
+githubの設定画面から 「GitHub Pages」を有効化しておく必要がある。  
 <https://taaaaaaak22.github.io/pyxel-web/>
 
 ## 開発方法
